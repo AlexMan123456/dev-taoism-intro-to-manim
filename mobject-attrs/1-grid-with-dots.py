@@ -10,3 +10,5 @@ class GridWithDots(Scene):
                 dots.add(Dot().move_to([x,y,0]))
         
         self.add(grid, dots)
+
+# Run: manim mobject-attrs/1-grid-with-dots.py -qm GridWithDots

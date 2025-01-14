@@ -10,3 +10,5 @@ class RustLogo(Scene):
         triangles = VGroup(big_triangle, medium_triangle, small_triangle).rotate(PI).move_to(background_circle.get_center()).shift(0.4*UP)
 
         self.add(background_circle, triangles)
+
+# Run: manim mobject-attrs/4-rust-logo.py -qm RustLogo
