@@ -50,7 +50,6 @@ class BubbleSort(Scene):
         
         self.wait()
         self.remove(reference_rectangle)
-        self.play(FadeOut(i_pointer), FadeOut(j_pointer), FadeOut(end_pointer))
         self.wait(3)
         
     def animate_swap(self, array_object, lower_index, upper_index):

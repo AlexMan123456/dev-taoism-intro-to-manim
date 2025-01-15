@@ -84,5 +84,4 @@ file 'file:/Users/alexman/Documents/Programming/Python/manim/dev-taoism-intro-to
 file 'file:/Users/alexman/Documents/Programming/Python/manim/dev-taoism-intro-to-manim/media/videos/3-bubble-sort/720p30/partial_movie_files/BubbleSort/543634251_3786043772_2403795044.mp4'
 file 'file:/Users/alexman/Documents/Programming/Python/manim/dev-taoism-intro-to-manim/media/videos/3-bubble-sort/720p30/partial_movie_files/BubbleSort/543634251_3405356773_196385694.mp4'
 file 'file:/Users/alexman/Documents/Programming/Python/manim/dev-taoism-intro-to-manim/media/videos/3-bubble-sort/720p30/partial_movie_files/BubbleSort/543634251_1704852926_1918167858.mp4'
-file 'file:/Users/alexman/Documents/Programming/Python/manim/dev-taoism-intro-to-manim/media/videos/3-bubble-sort/720p30/partial_movie_files/BubbleSort/543634251_3751646729_853124900.mp4'
-file 'file:/Users/alexman/Documents/Programming/Python/manim/dev-taoism-intro-to-manim/media/videos/3-bubble-sort/720p30/partial_movie_files/BubbleSort/543634251_2475379470_1341792564.mp4'
+file 'file:/Users/alexman/Documents/Programming/Python/manim/dev-taoism-intro-to-manim/media/videos/3-bubble-sort/720p30/partial_movie_files/BubbleSort/543634251_2475379470_3398764533.mp4'
